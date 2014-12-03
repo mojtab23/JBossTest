@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="target">
+    <output-path>$PROJECT_DIR$/out/artifacts/target</output-path>
+    <root id="root">
+      <element id="module-output" name="JBossTest" />
+      <element id="javaee-facet-resources" facet="JBossTest/web/Web" />
+    </root>
+  </artifact>
+</component>
